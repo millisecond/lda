@@ -75,7 +75,6 @@ for (var i in result) {
 		var term = row[j];
 		console.log(term.term + ' (' + term.probability + '%)');
 	}
-	
 	console.log('');
 }
 ```
